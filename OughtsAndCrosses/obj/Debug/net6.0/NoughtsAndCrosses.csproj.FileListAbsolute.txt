@@ -1,0 +1,15 @@
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\bin\Debug\net6.0\NoughtsAndCrosses.exe
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\bin\Debug\net6.0\NoughtsAndCrosses.deps.json
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\bin\Debug\net6.0\NoughtsAndCrosses.runtimeconfig.json
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\bin\Debug\net6.0\NoughtsAndCrosses.dll
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\bin\Debug\net6.0\NoughtsAndCrosses.pdb
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.csproj.AssemblyReference.cache
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.AssemblyInfoInputs.cache
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.AssemblyInfo.cs
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.dll
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\refint\NoughtsAndCrosses.dll
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.pdb
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\NoughtsAndCrosses.genruntimeconfig.cache
+F:\Data\Programs\C#\MOD3\OughtsAndCrosses\OughtsAndCrosses\obj\Debug\net6.0\ref\NoughtsAndCrosses.dll
